@@ -1,0 +1,12 @@
+C:\Users\tomas\Downloads\SERA\bin\Debug\SERA.exe.config
+C:\Users\tomas\Downloads\SERA\bin\Debug\SERA.exe
+C:\Users\tomas\Downloads\SERA\bin\Debug\SERA.pdb
+C:\Users\tomas\Downloads\SERA\obj\Debug\SERA.csproj.AssemblyReference.cache
+C:\Users\tomas\Downloads\SERA\obj\Debug\SERA.Form1.resources
+C:\Users\tomas\Downloads\SERA\obj\Debug\SERA.Properties.Resources.resources
+C:\Users\tomas\Downloads\SERA\obj\Debug\SERA.csproj.GenerateResource.cache
+C:\Users\tomas\Downloads\SERA\obj\Debug\SERA.csproj.CoreCompileInputs.cache
+C:\Users\tomas\Downloads\SERA\obj\Debug\SERA.exe
+C:\Users\tomas\Downloads\SERA\obj\Debug\SERA.pdb
+C:\Users\tomas\Downloads\SERA\bin\Debug\HUM.mdf
+C:\Users\tomas\Downloads\SERA\bin\Debug\HUM_log.ldf
