@@ -5,7 +5,7 @@ Here I am placing the links to diffrent circuits made using thinkercad because i
 [Greenhouse](https://www.tinkercad.com/things/6IxP3cWvge4-proiect-final-greenhouse?sharecode=UawIRMTviVokUZv8FgkEiO1RFVXesUR3jB1sdHFyyuE)-
 Requires installing Arduino software + DHT library (installed separately), Visual Studio Community for Database and connectivity to Arduino software and board
 Elements: 1 Arduino Board, 1 Breadboard, 2 ARGB LEDS, 2 DHT11 Temperature/Humidity sensors, 1 Buzzer for audio signaling(optional), 1 button to turn system on/off
-The board, with all the elements aasembled are connected to the pc, the Arduino files are run , Vs project is run , variables for inner/outer temperature and humidity are saved in a local database and displayed in a graph. 
+The board, with all the elements aasembled are connected to the pc, the Arduino files are run , Vs project is run , variables for inner/outer temperature and humidity are saved in a local database and displayed in a graph. [Link to view the real life version](https://drive.google.com/drive/folders/181WOmEZt49zJPl_hiwuNk7d-9yfB5rIl)
 
 [Lcd+servo](https://www.tinkercad.com/things/fRGaK5RV21D-lab4-ex-4?sharecode=SQ6cnt_6YBNsA2hAanazR-Suy3CHCCL76CLhh2VV35w)
 
